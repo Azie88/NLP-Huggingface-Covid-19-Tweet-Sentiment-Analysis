@@ -1,5 +1,7 @@
 # NLP-Huggingface-Covid-19-Tweet-Sentiment-Analysis
 
+![download (1)](https://github.com/Azie88/NLP-Huggingface-Covid-19-Tweet-Sentiment-Analysis/assets/101363399/675a3f49-6086-4a5e-bf4d-a7a8007a4282)
+
 In this project, we will be fine-tuning text classification NLP models from huggingface with Covid-19 tweet data to build a model that classifies text based on Covid-19 sentiment.We will use some deep learning models freely available on huugingface, including DistilBERT and RoBERTa, to categorize sentiments expressed in a vast collection of COVID-19-related tweets. We will then build a Gradio app for our model to give our model an interface and host it on huggingface
 
 ## Project Links 📑

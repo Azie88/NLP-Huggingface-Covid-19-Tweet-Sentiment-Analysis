@@ -39,14 +39,15 @@ def sentiment_analysis(text):
     return scores
 
 
-demo = gr.Interface(theme=gr.themes.Monochrome(),
+demo = gr.Interface(theme=gr.themes.Base(),
     fn=sentiment_analysis,
     inputs=gr.Textbox(placeholder="Write your tweet here..."),
     outputs="label",
     # interpretation="default",
-    examples=[["The COVID Vaccine is saves lives!"],
+    examples=[["The COVID Vaccine saves lives!"],
               ["The Vaccination is not necessary for young people"],
-              ["The vaccine is terrible. It can lead to early death"]],
+              ["The vaccine is terrible. It can lead to early death"],
+              ["I'm not sure. Maybe i'll get my booster vaccine shot"]],
     title='COVID Vaccine Sentiment Analysis app',
     description='This app assesses if a tweet related to vaccinations has a positive, neutral or negative sentiment.'
               )

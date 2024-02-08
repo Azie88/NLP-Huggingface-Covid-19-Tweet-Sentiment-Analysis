@@ -1,0 +1,2 @@
+text,output,flag,username,timestamp
+The vaccine is terrible. It can lead to early death,"{""label"":""Negative"",""confidences"":[{""label"":""Negative"",""confidence"":0.9862191081047058},{""label"":""Positive"",""confidence"":0.008738449774682522},{""label"":""Neutral"",""confidence"":0.0050424388609826565}]}",,,2024-02-08 15:34:44.392053

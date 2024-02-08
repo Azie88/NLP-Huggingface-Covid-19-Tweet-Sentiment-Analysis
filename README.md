@@ -8,11 +8,57 @@ In this project, we will be fine-tuning text classification NLP models from hugg
 ## Project Links 📑
 
 - [Tweet Sentiment Analysis Roberta](https://github.com/Azie88/NLP-Huggingface-Covid-19-Tweet-Sentiment-Analysis/blob/main/dev/Tweet%20Sentiment%20Analysis%20Roberta%20notebook.ipynb): Model Fine Tuning process.
-- [main.py](https://github.com/Azie88/NLP-Huggingface-Covid-19-Tweet-Sentiment-Analysis/blob/main/main.py): Gradio app for real-time sentiment analysis.
+- [main.py](https://github.com/Azie88/NLP-Huggingface-Covid-19-Tweet-Sentiment-Analysis/blob/main/main.py): Gradio app
 - [Data](https://github.com/Azie88/NLP-Huggingface-Covid-19-Tweet-Sentiment-Analysis/tree/main/Dataset): Training and testing datasets for model development.
-- [Hugging Face Space](https://huggingface.co/spaces/Azie88/Vaccine-Sentiment-Analysis): Gradio app on Huggingface
+- [Hugging Face Space](https://huggingface.co/spaces/Azie88/Vaccine-Sentiment-Analysis): Gradio app deployed on Huggingface
 
-## Screenshots 🖼️
+## Getting Started🏁
+
+You need to have [`Python 3`](https://www.python.org/) on your system. Then you can clone this repo and being at the repo's `root :: repository_name> ...`
+
+1. Clone this repository: `git clone https://github.com/Azie88/Estimated-Time-of-Arrival-ETA-Prediction.git`
+2. On your IDE, create A Virtual Environment and Install the required packages for the project:
+
+- Windows:
+        
+        python -m venv venv; 
+        venv\Scripts\activate; 
+        python -m pip install -q --upgrade pip; 
+        python -m pip install -qr requirements.txt  
+
+- Linux & MacOs:
+        
+        python3 -m venv venv; 
+        source venv/bin/activate; 
+        python -m pip install -q --upgrade pip; 
+        python -m pip install -qr requirements.txt  
+
+The two long command-lines have the same structure. They pipe multiple commands using the symbol ` ; ` but you can manually execute them one after the other.
+
+- **Create the Python's virtual environment** that isolates the required libraries of the project to avoid conflicts;
+- **Activate the Python's virtual environment** so that the Python kernel & libraries will be those of the isolated environment;
+- **Upgrade Pip, the installed libraries/packages manager** to have the up-to-date version that will work correctly;
+- **Install the required libraries/packages** listed in the `requirements.txt` file so that they can be imported into the python script and notebook without any issue.
+
+**NB:** For MacOs users, please install `Xcode` if you have an issue.
+
+- Run the Gradio app (being at the repository root):
+
+  Gradio: 
+  
+    For development
+
+      gradio main.py
+    
+    For normal deployment/execution
+
+      python main.py  
+
+  - Go to your browser at the following address :
+        
+      http://localhost:7860
+
+## App Screenshots 🖼️
 
 <table>
     <tr>
@@ -29,22 +75,13 @@ In this project, we will be fine-tuning text classification NLP models from hugg
     </tr>
 </table>
 
-### Gradio App
 
-- Run the Gradio app: use the provided notebook, `LP-5 Gradio.ipynb`
-- Access the app on local url: [http://localhost:7860/](http://localhost:7860/)
-- Explore real-time sentiment analysis of COVID-19 tweets. Use your own examples
+## Author✍️
 
-## Hugging Face
+Andrew Obando
 
-Visit my Hugging Face space to access the pre-trained models and Gradio app: [Azie88](https://huggingface.co/Azie88)
-
-## Author 🖊️
-
-- [Andrew Obando](https://www.linkedin.com/in/andrewobando/)
+Connect with me on LinkedIn: [Andrew Obando](https://www.linkedin.com/in/andrewobando/)
 
 ---
 
 Feel free to star ⭐ this repository if you find it helpful!
-
----

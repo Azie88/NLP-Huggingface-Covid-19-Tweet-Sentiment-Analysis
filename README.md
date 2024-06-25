@@ -16,7 +16,7 @@ In this project, we will be fine-tuning text classification NLP models from hugg
 
 You need to have [`Python 3`](https://www.python.org/) on your system. Then you can clone this repo and being at the repo's `root :: repository_name> ...`
 
-1. Clone this repository: `git clone https://github.com/Azie88/Estimated-Time-of-Arrival-ETA-Prediction.git`
+1. Clone this repository: `git clone https://github.com/Azie88 NLP-Huggingface-Covid-19-Tweet-Sentiment-Analysis`
 2. On your IDE, create A Virtual Environment and Install the required packages for the project:
 
 - Windows:
@@ -42,7 +42,7 @@ The two long command-lines have the same structure. They pipe multiple commands 
 
 **NB:** For MacOs users, please install `Xcode` if you have an issue.
 
-- Run the Gradio app (being at the repository root):
+3. Run the Gradio app (being at the repository root):
 
   Gradio: 
   
@@ -57,6 +57,8 @@ The two long command-lines have the same structure. They pipe multiple commands 
   - Go to your browser at the following address :
         
       http://localhost:7860
+
+4. Run the jupyter notebook on colab for more indepth insights on the deep learning process.
 
 ## App Screenshots 🖼️
 
@@ -80,7 +82,10 @@ The two long command-lines have the same structure. They pipe multiple commands 
 
 Andrew Obando
 
-Connect with me on LinkedIn: [Andrew Obando](https://www.linkedin.com/in/andrewobando/)
+<a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrew Obando | LinkedIn"/></a>
+<a href="https://medium.com/@obandoandrew8">
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+</a>
 
 ---
 

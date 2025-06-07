@@ -10,7 +10,7 @@ In this project, we will be fine-tuning text classification NLP models from hugg
 - [Tweet Sentiment Analysis Roberta](https://github.com/Azie88/NLP-Huggingface-Covid-19-Tweet-Sentiment-Analysis/blob/main/dev/Tweet%20Sentiment%20Analysis%20Roberta%20notebook.ipynb): Model Fine Tuning process.
 - [main.py](https://github.com/Azie88/NLP-Huggingface-Covid-19-Tweet-Sentiment-Analysis/blob/main/main.py): Gradio app
 - [Data](https://github.com/Azie88/NLP-Huggingface-Covid-19-Tweet-Sentiment-Analysis/tree/main/Dataset): Training and testing datasets for model development.
-- [Hugging Face Space](https://huggingface.co/spaces/Azie88/Vaccine-Sentiment-Analysis): Gradio app deployed on Huggingface
+- [Hugging Face Space](https://huggingface.co/spaces/Azie88/COVID-Vaccine-Sentiment-Analysis): Gradio app deployed on Huggingface
 
 ## Getting Started🏁
 

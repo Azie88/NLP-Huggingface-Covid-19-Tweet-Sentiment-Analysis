@@ -3,7 +3,7 @@
 ![shutterstock_1708020592](https://github.com/Azie88/NLP-Huggingface-Covid-19-Tweet-Sentiment-Analysis/assets/101363399/81aa75eb-4d7f-422f-97ee-bebaa25775a3)
 
 
-In this project, we will be fine-tuning text classification NLP models from huggingface with Covid-19 tweet data to build a model that classifies text based on Covid-19 vaccine sentiment.We will fine tune the RoBERTa-base model to categorize sentiments expressed in a vast collection of COVID-19-related tweets. We will then build a Gradio app for our model to give our model an interface and host it on huggingface
+In this project, we will be fine-tuning Twitter roBERTa base for Sentiment Analysis model from huggingface with Covid-19 tweet data to build a model that classifies text based on Covid-19 vaccine sentiment. We will then build a Gradio app for our model to give it an interface and host it on huggingface spaces.
 
 ## Project Links 📑
 

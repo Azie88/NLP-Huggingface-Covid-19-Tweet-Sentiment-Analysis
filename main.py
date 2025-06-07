@@ -1,7 +1,5 @@
 from transformers import AutoModelForSequenceClassification
-from transformers import TFAutoModelForSequenceClassification
 from transformers import AutoTokenizer, AutoConfig
-import numpy as np
 from scipy.special import softmax
 import gradio as gr
 
